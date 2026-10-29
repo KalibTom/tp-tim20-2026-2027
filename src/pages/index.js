@@ -1,43 +1,19 @@
-import clsx from 'clsx';
+import React from 'react';
 import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import Heading from '@theme/Heading';
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
+    <Layout title="Domov" description="Dokumentácia tímu 20">
+    <main style={{ padding: '6rem 2rem', textAlign: 'center' }}>
+    <h1 style={{ fontSize: '3rem' }}>Tím 20</h1>
+    <p style={{ fontSize: '1.25rem' }}>
+    Dokumentácia, architektúra a zápisy zo stretnutí.
+    </p>
+    <Link className="button button--primary button--lg" to="/docs/documentation/01-intro">
+    Otvoriť dokumentáciu
+    </Link>
+    </main>
     </Layout>
   );
 }
