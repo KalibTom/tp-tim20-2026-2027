@@ -84,7 +84,7 @@ description: Team kickoff meeting
 | Task | Assignee |
 | :--- | :--- |
 | Send the list of names, emails, roles, and GitHub accounts | Michal Kačinec |
-| Get GenBoard access and create team Discord server + roles | Michal Kačinec / Tomáš Miklovič |
+| Get GenBoard access and create team Discord server + roles | Michal Kačinec |
 | Study GenBoard code and get oriented in the project | All team members |
 | Review project documents and prepare questions for the next meeting | All team members |
 | Look into the frameworks (for the future) | All team members |
