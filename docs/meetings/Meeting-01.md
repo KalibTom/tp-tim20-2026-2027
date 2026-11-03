@@ -15,7 +15,7 @@ description: Team kickoff meeting
 | **Location**     | FIIT STU                       |
 | **Meeting Type** | Kickoff Meeting                |
 | **Team Leader**  | Michal Kačinec                 |
-| **Note Taker**   | Tomáš Miklovič                 |
+| **Note Taker**   | Jakub Fridrich                 |
 
 ## Attendance
 
