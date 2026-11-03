@@ -55,7 +55,7 @@ We received the comprehensive task list (`GenBoard tasks.xlsx`). The tasks are d
 
 | Work Package | Focus Area | Key Tasks (Examples) |
 | :--- | :--- | :--- |
-| **WP1** | Preparatory Steps | Code understanding, changing GF <-> GB communication to Kafka. |
+| **WP1** | Preparatory Steps | Code understanding, changing GF ⟷ GB communication to Kafka. |
 | **WP2** | Pipeline Builder | Adding tables for machines/tools, interactive pipeline editor, validation. |
 | **WP3** | Dataset Management | Adding/editing samples, importing TSV, data preview, validation. |
 | **WP4** | Run Management | Starting runs from GenBoard, visualisations (timeline, metrics dashboard). |
@@ -93,4 +93,4 @@ The system differentiates three levels of access:
 1. **Meeting in one week.**
 2. Bring a list of tasks you want to work on from the Excel sheet.
 3. Finalize the task assignment for the first sprint (WP1 & WP2).
-4. Start working on Task T01 (Code understanding) and T02 (GF <-> GB Communication).
+4. Start working on Task T01 (Code understanding) and T02 (GF ⟷ GB Communication).
