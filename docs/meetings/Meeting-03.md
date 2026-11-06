@@ -102,4 +102,5 @@ An explanation of how samples and files are identified and processed:
 1. **Next Meeting:** November 10, 2026 (Tuesday) - *Note: Moving to a bi-weekly schedule.*
 2. Prepare a brief presentation for the next meeting regarding your assigned task(s) (What is done, what is stuck).
 3. Continue working on WP1 and WP2 tasks.
-4. Await the domain for the team website.
+
+5. Await the domain for the team website.
